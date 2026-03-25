@@ -1,0 +1,4 @@
+IR: 001100, PC: 1, A: 1, B: 0, S: 0, Vai-um: 0
+IR: 011100, PC: 2, A: 1, B: 0, S: 1, Vai-um: 0
+IR: 101100, PC: 3, A: 1, B: 0, S: 1, Vai-um: 0
+IR: 111001, PC: 4, A: 1, B: 0, S: 0, Vai-um: 1
