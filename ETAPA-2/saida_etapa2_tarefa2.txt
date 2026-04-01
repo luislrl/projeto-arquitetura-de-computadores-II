@@ -1,0 +1,31 @@
+=== INICIO DA EXECUCAO — ETAPA 2, TAREFA 2 ===
+
+ESTADO INICIAL DOS REGISTRADORES:
+  H=0  OPC=0  TOS=0  CPP=0  LV=10  SP=100  PC=5  MDR=42  MAR=0  MBR=0
+
+=========================================================
+IR: 001101001010000000000
+
+REGISTRADORES NO INICIO:
+  H=0  OPC=0  TOS=0  CPP=0  LV=10  SP=100  PC=5  MDR=42  MAR=0  MBR=0
+
+Barramento B: MDR
+Barramento C: H, TOS
+
+REGISTRADORES NO FIM:
+  H=42  OPC=0  TOS=42  CPP=0  LV=10  SP=100  PC=5  MDR=42  MAR=0  MBR=0
+=========================================================
+
+=========================================================
+IR: 001111000000000100101
+
+REGISTRADORES NO INICIO:
+  H=42  OPC=0  TOS=42  CPP=0  LV=10  SP=100  PC=5  MDR=42  MAR=0  MBR=0
+
+Barramento B: LV
+Barramento C: MDR
+
+REGISTRADORES NO FIM:
+  H=42  OPC=0  TOS=42  CPP=0  LV=10  SP=100  PC=5  MDR=52  MAR=0  MBR=0
+=========================================================
+
